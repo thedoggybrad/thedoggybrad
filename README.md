@@ -5,4 +5,4 @@ This is an ads and privacy related account, atleast for now.
 Right now, I have AdBlock Filters and my project ADKILLED-WEBSITES.
 <br>
 <br>
-This account started with a simple speedtest platform with no speciality, then I add some AdBlock filters in here and added some ADKILLED-Website Products.
+This account started with a simple speedtest platform with no speciality, then I add some AdBlock filters in here and added some ADKILLED-Website Products. Now I restored my own speedtest platform named "SpeedTest Lite".

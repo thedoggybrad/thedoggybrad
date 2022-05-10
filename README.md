@@ -5,7 +5,7 @@ Products/Softwares of thedoggybrad
 <br>
 2.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
-3.) ADKILLED-METER/NET https://github.com/thedoggybrad/ADKILLED-METER.NET
+3.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
 4.) ADKILLED-OPENSPEEDTEST.COM https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>

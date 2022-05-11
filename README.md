@@ -14,10 +14,3 @@ Products/Softwares of thedoggybrad
 6.) no-newsletter https://github.com/thedoggybrad/no-newsletter
 <br>
 7.) anti-gotoup-buttons https://github.com/thedoggybrad/anti-gotoup-buttons
-<br>
-<br>
-<br>
-<br>
-Discontinued Products/Softwares (But still Available) of thedoggybrad
-<br>
-1.) SpeedTest-Lite https://github.com/thedoggybrad/SpeedTest-Lite

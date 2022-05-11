@@ -1,23 +1,23 @@
 ### thedoggybrad
 Products/Softwares of thedoggybrad 
 <br>
-1.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET (speedtest.net with no ads)
+1.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
-2.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET (meter.net with no ads)
+2.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
-3.) ADKILLED-OPENSPEEDTEST.COM https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM (openspeedtest.com with no ads)
+3.) ADKILLED-OPENSPEEDTEST.COM https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
-4.) ANTI-ADBLOCKER ULTIMATE https://github.com/thedoggybrad/Anti-AdBlocker-Ultimate (Anti-AdBlock Killer)
+4.) ANTI-ADBLOCKER ULTIMATE https://github.com/thedoggybrad/Anti-AdBlocker-Ultimate
 <br>
-5.) UBlockFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall (UBlock filters for all AdBlockers)
+5.) UBlockFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
 <br>
-6.) no-newsletter https://github.com/thedoggybrad/no-newsletter (Filter for blocking newsletters)
+6.) no-newsletter https://github.com/thedoggybrad/no-newsletter
 <br>
-7.) anti-gotoup-buttons https://github.com/thedoggybrad/anti-gotoup-buttons (Filter for blocking go to up buttons)
-<br>
-<br>
+7.) anti-gotoup-buttons https://github.com/thedoggybrad/anti-gotoup-buttons
 <br>
 <br>
-Discontinued Products/Softwares of thedoggybrad
 <br>
-1.) SpeedTest-Lite https://github.com/thedoggybrad/SpeedTest-Lite (Discontinued due to failure)
+<br>
+Discontinued Products/Softwares (But still Available) of thedoggybrad
+<br>
+1.) SpeedTest-Lite https://github.com/thedoggybrad/SpeedTest-Lite

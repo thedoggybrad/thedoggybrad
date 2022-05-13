@@ -13,6 +13,8 @@ Products/Softwares of thedoggybrad
 <br>
 6.) anti-gotoup-buttons https://github.com/thedoggybrad/anti-gotoup-buttons
 <br>
+7.) Frame-Blocker-Filter https://github.com/thedoggybrad/Frame-Blocker-Filter
+<br>
 <br>
 <br>
 <br>

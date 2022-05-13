@@ -1,4 +1,4 @@
-### TheDoggyBrad Main Page
+9### TheDoggyBrad Main Page
 Products/Softwares of thedoggybrad 
 <br>
 1.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
@@ -28,6 +28,10 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 <br>
 https://github.com/reek/anti-adblock-killer
 <br>
+Reason of Discontinuation: There is no sense to maintain this because all of them exists and works for all adblockers, and you can just subscribe to these three filters.
+<br>
 2.) SpeedTest Lite
 <br>
 Alternatives: ADKILLED-OPENSPEEDTEST.COM, ADLILLED-SPEEDTEST.NET, ADKILLED-METER.NET (All available below)
+<br>
+Reason of Discontinuation: Failed to reach the goal

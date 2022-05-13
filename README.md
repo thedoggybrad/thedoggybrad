@@ -26,6 +26,8 @@ https://github.com/bogachenko/fuckfuckadblock
 <br>
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 <br>
+https://github.com/reek/anti-adblock-killer (Discontinued)
+<br>
 2.) SpeedTest Lite
 <br>
 Alternatives: ADKILLED-OPENSPEEDTEST.COM, ADLILLED-SPEEDTEST.NET, ADKILLED-METER.NET (All available below)

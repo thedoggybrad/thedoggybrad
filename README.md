@@ -32,6 +32,6 @@ Reason of Discontinuation: There is no sense to maintain this because all of the
 <br>
 2.) SpeedTest Lite
 <br>
-Alternatives: ADKILLED-OPENSPEEDTEST.COM, ADLILLED-SPEEDTEST.NET, ADKILLED-METER.NET (All available below)
+Alternatives: ADKILLED-OPENSPEEDTEST.COM, ADKILLED-SPEEDTEST.NET, ADKILLED-METER.NET (All available below)
 <br>
 Reason of Discontinuation: Failed to reach the goal

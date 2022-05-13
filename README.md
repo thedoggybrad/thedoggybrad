@@ -16,8 +16,7 @@ Products/Softwares of thedoggybrad
 <br>
 <br>
 <br>
-Removed Projects due to Failure/Hard to maintain:
-<br>
+Removed Projects due to Failure/Hard to maintain
 <br>
 1.) Anti AdBlocker Killer Ultimate
 <br>

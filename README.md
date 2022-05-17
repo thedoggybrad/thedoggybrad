@@ -15,4 +15,4 @@ Products/Softwares of thedoggybrad
 <br>
 7.) Frame-Blocker-Filter https://github.com/thedoggybrad/Frame-Blocker-Filter
 <br>
-7.1.) Non-Essential-Frames Blocker https://github.com/thedoggybrad/Non-Essential-Frames-Blocker
+**7.1 Non-Essential-Frames Blocker https://github.com/thedoggybrad/Non-Essential-Frames-Blocker

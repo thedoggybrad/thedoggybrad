@@ -1,5 +1,5 @@
 ### TheDoggyBrad Main Page
-Products/Softwares of thedoggybrad (Arranged according to from the Flagship Project)
+Products/Softwares of thedoggybrad (Arranged according from the Flagship Project)
 <br>
 1.) UBlockFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
 <br>

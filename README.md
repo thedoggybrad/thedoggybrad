@@ -16,3 +16,12 @@ Products/Softwares of thedoggybrad
 7.) Frame-Blocker-Filter https://github.com/thedoggybrad/Frame-Blocker-Filter
 <br>
 **7.1 Non-Essential-Frames Blocker https://github.com/thedoggybrad/Non-Essential-Frames-Blocker
+<br>
+<br>
+<br>
+<br>
+All of this filters and softwares are using the ISC License, which is basically a simplified version of the MIT License.
+<br>
+The ADKILLED-SPEEDTEST set/family of products are using their own licenses based on how I acquire them.
+<br>
+Some components uses their own licenses, but if it is legal according to the component license it will use the ISC License exceptions with the AdKilled-Speedtest product family..

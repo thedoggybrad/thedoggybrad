@@ -24,4 +24,4 @@ All of this filters and softwares are using the ISC License, which is basically 
 <br>
 The ADKILLED-SPEEDTEST set/family of products are using their own licenses based on how I acquire them.
 <br>
-Some components uses their own licenses, but if it is legal according to the component license it will use the ISC License exceptions with the AdKilled-Speedtest product family..
+Some components uses their own licenses, but if it is legal according to the component license it will use the ISC License with the exceptions to the AdKilled-Speedtest product family.

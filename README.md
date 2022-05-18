@@ -1,7 +1,6 @@
 ### TheDoggyBrad Main Page
 Products/Softwares of thedoggybrad (Arranged according to from the Flagship Project)
 <br>
-<br>
 1.) UBlockFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
 <br>
 2.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

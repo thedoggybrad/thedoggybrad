@@ -1,8 +1,6 @@
 ### TheDoggyBrad Main Page
 Products/Softwares of thedoggybrad (Arranged according from the Flagship Project)
 <br>
-0.) NODISTURBANCESFROMFREEBUILDERS https://github.com/thedoggybrad/NODISTURBANCESFROMFREEBUILDERS
-<br>
 1.) UBlockFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
 <br>
 2.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

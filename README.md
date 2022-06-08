@@ -15,7 +15,7 @@ Products/Softwares of thedoggybrad (Arranged according from the Flagship Project
 <br>
 6.) no-newsletter https://github.com/thedoggybrad/no-newsletter
 <br>
-7.) **DISCONTINUED** UBlockOriginFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
+7.) (DISCONTINUED) UBlockOriginFiltersforall https://github.com/thedoggybrad/UBlockFiltersforall
 <br>
 <br>
 <br>

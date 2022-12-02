@@ -1,7 +1,7 @@
 ### TheDoggyBrad Main Page
-Products/Softwares of thedoggybrad (Arranged according from the Flagship Project)
+Products/Softwares of thedoggybrad:
 <br>
-1.) Windows Hide or Show Updates https://github.com/thedoggybrad/wushowhide.diagcab
+1.) Windows Hide or Show Updates (Archive of the Original) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
 2.) Frame Blocker Filter https://github.com/thedoggybrad/Frame-Blocker-Filter
 <br>
@@ -10,6 +10,8 @@ Products/Softwares of thedoggybrad (Arranged according from the Flagship Project
 4.) ADKILLED-OPENSPEEDTEST.COM https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
 5.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET
+<br>
+6.) Easylistadware (Archive of the Original) [https://github.com/thedoggybrad/ADKILLED-METER.NET](https://github.com/thedoggybrad/easylistadware)
 <br>
 <br>
 <br>

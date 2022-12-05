@@ -24,4 +24,4 @@ Public Archive of the original files by thedoggybrad:
 <br>
 I created an Adblock Filter for those who hate Iframes, and no-Ads version of various popular speedtesting sites.
 <br>
-I recently enjoyed making archives of various inactive files, so possibly my account will contain more archives than projects in the future.
+I recently enjoyed making archives of various inactive files, that their links have been shutted down.

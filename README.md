@@ -11,8 +11,10 @@ Products/Softwares of thedoggybrad:
 <br>
 <br>
 <br>
-Public Archive of the original file by thedoggybrad:
+Public Archive of the original files by thedoggybrad:
 <br>
 1.) Windows Hide or Show Updates (Archive of the Original) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
 2.) Easylistadware (Archive of the Original) https://github.com/thedoggybrad/easylistadware
+<br>
+2.) Malwaredomains_full (Archive of the Original) https://github.com/thedoggybrad/malwaredomains_full

@@ -9,6 +9,8 @@ Products/Softwares of thedoggybrad:
 <br>
 4.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
+5.) qrscanner https://github.com/thedoggybrad/qrscanner
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

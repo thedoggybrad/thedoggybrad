@@ -11,6 +11,8 @@ Products/Softwares of thedoggybrad:
 <br>
 5.) qrscanner https://github.com/thedoggybrad/qrscanner
 <br>
+6.) url2qrcode https://github.com/thedoggybrad/url2qrcode
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

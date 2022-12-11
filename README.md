@@ -22,12 +22,3 @@ Public Archive of the original files by thedoggybrad:
 2.) Easylistadware (Archive of the Original) https://github.com/thedoggybrad/easylistadware
 <br>
 3.) Malwaredomains_full (Archive of the Original) https://github.com/thedoggybrad/malwaredomains_full
-<br>
-<br>
-<br>
-<br>
-I created an Adblock Filter for those who hate Iframes, and no-Ads version of various popular speedtesting sites.
-<br>
-I also created an experimental QR Code Scanner, using Internet resources. This turned out to a success, so it is now stable.
-<br>
-I recently enjoyed making archives of various inactive files, that their links have been shutted down.

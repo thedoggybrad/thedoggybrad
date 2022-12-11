@@ -11,6 +11,8 @@ Products/Softwares of thedoggybrad:
 <br>
 5.) qrscanner https://github.com/thedoggybrad/qrscanner
 <br>
+6.) WindowsPEBasic https://github.com/thedoggybrad/WindowsPEBasic
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

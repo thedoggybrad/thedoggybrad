@@ -15,6 +15,7 @@ Products/Softwares of thedoggybrad:
 <br>
 7.) getdatetime https://github.com/thedoggybrad/getdatetime
 <br>
+8.) text2speech https://github.com/thedoggybrad/text2speech
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

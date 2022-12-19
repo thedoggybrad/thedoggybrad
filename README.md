@@ -19,6 +19,8 @@ Products/Softwares of thedoggybrad:
 <br>
 9.) simplepasswordgenerator https://github.com/thedoggybrad/simplepasswordgenerator
 <br>
+10.) 2048 on the Web https://github.com/thedoggybrad/2048ontheweb
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

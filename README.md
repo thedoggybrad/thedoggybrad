@@ -17,6 +17,8 @@ Products/Softwares of thedoggybrad:
 <br>
 8.) text2speech https://github.com/thedoggybrad/text2speech
 <br>
+9.) simplepasswordgenerator https://github.com/thedoggybrad/simplepasswordgenerator
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

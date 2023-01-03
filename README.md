@@ -23,6 +23,8 @@ Products/Softwares of thedoggybrad:
 <br>
 11.) PeacefulSearch https://github.com/thedoggybrad/peacefulsearch
 <br>
+12.) Real SpeedTest https://github.com/thedoggybrad/speedtest
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

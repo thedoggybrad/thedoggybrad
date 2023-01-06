@@ -25,6 +25,7 @@ Products/Softwares of thedoggybrad:
 <br>
 12.) Real SpeedTest https://github.com/thedoggybrad/speedtest
 <br>
+13.) Notes Manager https://github.com/thedoggybrad/notesmanager
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

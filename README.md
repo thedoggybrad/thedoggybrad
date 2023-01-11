@@ -5,7 +5,7 @@ Products/Softwares of thedoggybrad:
 <br>
 2.) ADKILLED-SPEEDTEST.NET (STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
-3.) ADKILLED-OPENSPEEDTEST.COM (BUGS FOUND) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
+3.) ADKILLED-OPENSPEEDTEST.COM (STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
 4.) ADKILLED-METER.NET (STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
@@ -33,8 +33,8 @@ Products/Softwares of thedoggybrad:
 <br>
 Public Archive of the original files by thedoggybrad:
 <br>
-1.) Windows Hide or Show Updates (Archive of the Original) https://github.com/thedoggybrad/wushowhide.diagcab
+1.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
-2.) Easylistadware (Archive of the Original) https://github.com/thedoggybrad/easylistadware
+2.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
-3.) Malwaredomains_full (Archive of the Original) https://github.com/thedoggybrad/malwaredomains_full
+3.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full

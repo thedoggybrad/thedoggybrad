@@ -27,7 +27,9 @@ Products/Softwares of thedoggybrad:
 <br>
 13.) Notes Manager (STABLE) https://github.com/thedoggybrad/notesmanager
 <br>
-14.) Website Navigator (EXPERIMENTAL) https://github.com/thedoggybrad/website_navigator
+14.) Website Navigator (UNMAINTAINED) https://github.com/thedoggybrad/website_navigator
+<br>
+15.) Notepad Reborn (UNMAINTAINED) https://github.com/thedoggybrad/notepad_reborn
 <br>
 <br>
 <br>

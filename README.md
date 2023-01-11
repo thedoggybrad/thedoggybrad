@@ -33,9 +33,8 @@
 15.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
 <br>
 16.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
-<br>
-<br>
-<br>
+
+
 ## Public Archive of the original files by thedoggybrad:
 <br>
 1.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
@@ -43,10 +42,8 @@
 2.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
 3.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
-<br>
-<br>
-<br>
-<br>
+
+
 ## Summary of my Projects:
 <br>
 Products 2 to 13 are all HTML based projects.
@@ -56,10 +53,8 @@ Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 Next, products 14 to 16 are Visual Basic.NET projects.
 <br>
 Lastly, archive 1 is a public archive of a famous file.
-<br>
-<br>
-<br>
-<br>
+
+
 ## Definition of Terms
 •Stable - a stable product that can be used without crashing.
 <br>

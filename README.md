@@ -1,7 +1,6 @@
 # TheDoggyBrad Main Page
 
 ## Products/Softwares of thedoggybrad:
-<br>
 1.) Frame Blocker Filter (LEGACY MODE-STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
 2.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
@@ -36,7 +35,6 @@
 
 
 ## Public Archive of the original files by thedoggybrad:
-<br>
 1.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
 2.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
@@ -45,7 +43,6 @@
 
 
 ## Summary of my Projects:
-<br>
 Products 2 to 13 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.

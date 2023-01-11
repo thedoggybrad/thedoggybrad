@@ -1,31 +1,31 @@
 ### TheDoggyBrad Main Page
 Products/Softwares of thedoggybrad:
 <br>
-1.) Frame Blocker Filter https://github.com/thedoggybrad/Frame-Blocker-Filter 
+1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
-2.) ADKILLED-SPEEDTEST.NET https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
+2.) ADKILLED-SPEEDTEST.NET (STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
-3.) ADKILLED-OPENSPEEDTEST.COM https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
+3.) ADKILLED-OPENSPEEDTEST.COM (BUGS FOUND) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
-4.) ADKILLED-METER.NET https://github.com/thedoggybrad/ADKILLED-METER.NET
+4.) ADKILLED-METER.NET (STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
-5.) qrscanner https://github.com/thedoggybrad/qrscanner
+5.) qrscanner (STABLE) https://github.com/thedoggybrad/qrscanner
 <br>
-6.) WindowsPEBasic https://github.com/thedoggybrad/WindowsPEBasic
+6.) WindowsPEBasic (STABLE) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
-7.) getdatetime https://github.com/thedoggybrad/getdatetime
+7.) getdatetime (STABLE) https://github.com/thedoggybrad/getdatetime
 <br>
-8.) text2speech https://github.com/thedoggybrad/text2speech
+8.) text2speech (STABLE) https://github.com/thedoggybrad/text2speech
 <br>
-9.) simplepasswordgenerator https://github.com/thedoggybrad/simplepasswordgenerator
+9.) simplepasswordgenerator (STABLE) https://github.com/thedoggybrad/simplepasswordgenerator
 <br>
-10.) 2048 on the Web https://github.com/thedoggybrad/2048ontheweb
+10.) 2048 on the Web (STABLE) https://github.com/thedoggybrad/2048ontheweb
 <br>
-11.) PeacefulSearch https://github.com/thedoggybrad/peacefulsearch
+11.) PeacefulSearch (STABLE) https://github.com/thedoggybrad/peacefulsearch
 <br>
-12.) Real SpeedTest https://github.com/thedoggybrad/speedtest
+12.) Real SpeedTest (STABLE) https://github.com/thedoggybrad/speedtest
 <br>
-13.) Notes Manager https://github.com/thedoggybrad/notesmanager
+13.) Notes Manager (STABLE) https://github.com/thedoggybrad/notesmanager
 <br>
 14.) Website Navigator (EXPERIMENTAL) https://github.com/thedoggybrad/website_navigator
 <br>

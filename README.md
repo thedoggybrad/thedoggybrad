@@ -27,6 +27,8 @@ Products/Softwares of thedoggybrad:
 <br>
 13.) Notes Manager https://github.com/thedoggybrad/notesmanager
 <br>
+14.) Website Navigator (EXPERIMENTAL) https://github.com/thedoggybrad/website_navigator
+<br>
 <br>
 <br>
 Public Archive of the original files by thedoggybrad:

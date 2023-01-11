@@ -3,11 +3,11 @@ Products/Softwares of thedoggybrad:
 <br>
 1.) Frame Blocker Filter (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
-2.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE -STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
+2.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
-3.) ADKILLED-OPENSPEEDTEST.COM (MAINTENANCE MODE -STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
+3.) ADKILLED-OPENSPEEDTEST.COM (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
-4.) ADKILLED-METER.NET (MAINTENANCE MODE -STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
+4.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 <br>
 5.) qrscanner (STABLE) https://github.com/thedoggybrad/qrscanner
 <br>

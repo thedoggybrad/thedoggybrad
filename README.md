@@ -27,9 +27,11 @@ Products/Softwares of thedoggybrad:
 <br>
 13.) Notes Manager (STABLE) https://github.com/thedoggybrad/notesmanager
 <br>
-14.) Website Navigator (UNMAINTAINED) https://github.com/thedoggybrad/website_navigator
+14.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
-15.) Notepad Reborn (UNMAINTAINED) https://github.com/thedoggybrad/notepad_reborn
+15.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
+<br>
+16.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
 <br>
 <br>
 <br>
@@ -40,3 +42,16 @@ Public Archive of the original files by thedoggybrad:
 2.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
 3.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
+<br>
+<br>
+<br>
+<br>
+Summary of my Projects:
+<br>
+Products 2 to 13 are all HTML based projects.
+<br>
+Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
+<br>
+Next, products 14 to 16 are Visual Basic.NET projects.
+<br>
+Lastly, archive 1 is a public archive of a famous file.

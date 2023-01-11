@@ -1,5 +1,6 @@
-### TheDoggyBrad Main Page
-Products/Softwares of thedoggybrad:
+# TheDoggyBrad Main Page
+
+## Products/Softwares of thedoggybrad:
 <br>
 1.) Frame Blocker Filter (LEGACY MODE-STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
@@ -35,7 +36,7 @@ Products/Softwares of thedoggybrad:
 <br>
 <br>
 <br>
-Public Archive of the original files by thedoggybrad:
+## Public Archive of the original files by thedoggybrad:
 <br>
 1.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
@@ -46,7 +47,7 @@ Public Archive of the original files by thedoggybrad:
 <br>
 <br>
 <br>
-Summary of my Projects:
+## Summary of my Projects:
 <br>
 Products 2 to 13 are all HTML based projects.
 <br>
@@ -55,3 +56,18 @@ Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 Next, products 14 to 16 are Visual Basic.NET projects.
 <br>
 Lastly, archive 1 is a public archive of a famous file.
+<br>
+<br>
+<br>
+<br>
+## Definition of Terms
+•Stable - a stable product that can be used without crashing.
+<br>
+•Unmaintained - no releases are planned.
+<br>
+•Legacy Mode - releases will only fix problems/bugs.
+<br>
+•Maintenance Mode - no ground breaking changes are expected to be released.
+<br>
+•Archive - a file that is intended to be stayed as it is created by its original author.
+

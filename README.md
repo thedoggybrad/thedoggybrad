@@ -32,6 +32,8 @@
 15.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
 <br>
 16.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
+<br>
+17.) LatencyTester (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/latencytester
 
 
 ## Public Archive of the original files by thedoggybrad:
@@ -43,7 +45,7 @@
 
 
 ## Summary of my Projects:
-Products 2 to 13 are all HTML based projects.
+Products 2 to 13 and 17 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>

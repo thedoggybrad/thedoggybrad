@@ -25,7 +25,7 @@
 <br>
 12.) Real SpeedTest (STABLE) https://github.com/thedoggybrad/speedtest
 <br>
-13.) Notes Manager (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/notesmanager
+13.) Notes Manager (STABLE) https://github.com/thedoggybrad/notesmanager
 <br>
 14.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>

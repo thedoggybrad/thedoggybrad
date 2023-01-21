@@ -33,7 +33,7 @@
 <br>
 16.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
 <br>
-17.) LatencyTester (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/latencytester
+17.) LatencyTester (STABLE) https://github.com/thedoggybrad/latencytester
 
 
 ## Public Archive of the original files by thedoggybrad:

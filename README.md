@@ -42,10 +42,12 @@
 2.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
 3.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
+<br>
+4.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
 
 ## Summary of my Projects:
-Products 2 to 13 and 17 are all HTML based projects.
+Products 2 to 13, 17 and Archive 4 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>

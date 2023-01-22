@@ -34,6 +34,8 @@
 16.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
 <br>
 17.) LatencyTester (STABLE) https://github.com/thedoggybrad/latencytester
+<br>
+18.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
 
 
 ## Public Archive of the original files by thedoggybrad:
@@ -51,7 +53,7 @@ Products 2 to 13, 17 and Archive 4 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>
-Next, products 14 to 16 are Visual Basic.NET projects.
+Next, products 14 to 16 and 18 are Visual Basic.NET projects.
 <br>
 Lastly, archive 1 is a public archive of a famous file.
 

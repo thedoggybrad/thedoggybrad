@@ -48,7 +48,8 @@
 4.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 <br>
 5.) Windows 11 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder
-
+<br>
+6.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
 
 ## Summary of my Projects:
 Products 2 to 13, 17 and Archive 4 are all HTML based projects.
@@ -57,7 +58,7 @@ Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>
 Next, products 14 to 16 and 18 are Visual Basic.NET projects.
 <br>
-Lastly, archive 1 and 5 are public archives of famous files.
+Lastly, archive 1, 5 and 6 are public archives of famous files.
 
 
 ## Definition of Terms

@@ -36,6 +36,8 @@
 17.) LatencyTester (STABLE) https://github.com/thedoggybrad/latencytester
 <br>
 18.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
+<br>
+19.) DogGPT (STABLE) https://github.com/thedoggybrad/dogpt
 
 
 ## Public Archive of the original files by thedoggybrad:
@@ -52,7 +54,7 @@
 6.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
 
 ## Summary of my Projects:
-Products 2 to 13, 17 and Archive 4 are all HTML based projects.
+Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>

@@ -38,6 +38,8 @@
 18.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
 <br>
 19.) DogGPT (STABLE) https://github.com/thedoggybrad/dogpt
+<br>
+20.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
 
 ## Public Archive of the original files by thedoggybrad:
@@ -58,7 +60,7 @@ Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.
 <br>
 Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>
-Next, products 14 to 16 and 18 are Visual Basic.NET projects.
+Next, products 14 to 16, 18 and 20 are Visual Basic.NET projects.
 <br>
 Lastly, archive 1, 5 and 6 are public archives of famous files.
 

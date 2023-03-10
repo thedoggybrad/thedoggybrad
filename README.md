@@ -54,6 +54,8 @@
 5.) Windows 11 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder
 <br>
 6.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
+<br>
+7.) ChatGPT's Novel - Noli Me Tangere (ARCHIVE) https://github.com/thedoggybrad/chatgpt-nolimetangere/
 
 ## Summary of my Projects:
 Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.
@@ -63,6 +65,8 @@ Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 Next, products 14 to 16, 18 and 20 are Visual Basic.NET projects.
 <br>
 Lastly, archive 1, 5 and 6 are public archives of famous files.
+<br>
+The 7th archive is a demo showing ChatGPT's capabilities.
 
 
 ## Definition of Terms

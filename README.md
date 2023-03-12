@@ -40,6 +40,8 @@
 19.) DogGPT (STABLE) https://github.com/thedoggybrad/dogpt
 <br>
 20.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
+<br>
+21.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
 
 
 ## Public Archive of the original files by thedoggybrad:
@@ -67,6 +69,8 @@ Next, products 14 to 16, 18 and 20 are Visual Basic.NET projects.
 Lastly, archive 1, 5 and 6 are public archives of famous files.
 <br>
 The 7th archive is a demo showing ChatGPT's capabilities.
+<br>
+The 21st product is a program made for use on command line.
 
 
 ## Definition of Terms

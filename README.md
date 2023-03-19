@@ -70,7 +70,7 @@ Lastly, archive 1, 5 and 6 are public archives of famous files.
 <br>
 The 7th archive is a demo showing ChatGPT's capabilities.
 <br>
-The 21st product is a program made for use on command line.
+The 21st product is a program made for use on command line and as a GUI app.
 
 
 ## Definition of Terms

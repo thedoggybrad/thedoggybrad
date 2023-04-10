@@ -1,7 +1,7 @@
 # TheDoggyBrad Main Page
 
 ## Products/Softwares of thedoggybrad:
-1.) Frame Blocker Filter (LEGACY MODE-STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
+1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
 2.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>

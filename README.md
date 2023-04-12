@@ -42,6 +42,8 @@
 20.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 <br>
 21.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
+<br>
+22.) The Super Security Filterlist https://github.com/thedoggybrad/supersecurityfilterlist
 
 
 ## Public Archive of the original files by thedoggybrad:

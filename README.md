@@ -1,6 +1,7 @@
 # TheDoggyBrad Main Page
 
-## Go Social! https://github.com/thedoggybrad/GoSocial
+## Go Social! 
+https://github.com/thedoggybrad/GoSocial
 
 ## Products/Softwares of thedoggybrad:
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 

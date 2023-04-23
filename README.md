@@ -1,6 +1,7 @@
 # TheDoggyBrad Main Page
 
 ## Go Social! 
+An open, free, safe and privacy-friendly social media platform.
 https://github.com/thedoggybrad/GoSocial
 
 ## Products/Softwares of thedoggybrad:

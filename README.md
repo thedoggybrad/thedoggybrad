@@ -66,7 +66,7 @@ https://github.com/thedoggybrad/GoSocial
 <br>
 7.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
-8.) Classic Windows Task Manager https://github.com/thedoggybrad/classic-windowstaskmanager
+8.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
 
 ## Summary of my Projects:
 Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.

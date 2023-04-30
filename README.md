@@ -65,6 +65,8 @@ https://github.com/thedoggybrad/GoSocial
 6.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
 <br>
 7.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
+<br>
+8.) Classic Windows Task Manager https://github.com/thedoggybrad/classic-windowstaskmanager
 
 ## Summary of my Projects:
 Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.
@@ -73,7 +75,7 @@ Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
 <br>
 Next, products 14 to 16, 18 and 20 are Visual Basic.NET projects.
 <br>
-Lastly, archive 1, 5 and 6 are public archives of famous files.
+Lastly, archive 1, 5, 6 and 8 are public archives of famous files.
 <br>
 The 7th archive is a demo showing ChatGPT's capabilities.
 <br>

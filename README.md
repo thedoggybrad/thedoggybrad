@@ -49,6 +49,8 @@ https://github.com/thedoggybrad/GoSocial
 21.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
 <br>
 22.) The Super Security Filterlist (STABLE) https://github.com/thedoggybrad/supersecurityfilterlist
+<br>
+23.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/SuperImageSizeSaver
 
 
 ## Public Archive of the original files by thedoggybrad:

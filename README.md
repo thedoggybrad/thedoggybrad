@@ -51,6 +51,8 @@ https://github.com/thedoggybrad/GoSocial
 22.) The Super Security Filterlist (STABLE) https://github.com/thedoggybrad/supersecurityfilterlist
 <br>
 23.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/SuperImageSizeSaver
+<br>
+24.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/LoginSelectorGoBlue
 
 
 ## Public Archive of the original files by thedoggybrad:

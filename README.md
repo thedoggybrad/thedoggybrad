@@ -1,5 +1,8 @@
 # TheDoggyBrad Main Page
 
+# Important 
+I have decided to take a pause in developing any projects in Github. I do not know when to come back. The reason for this is that many people on the internet does not understand my complex mind. Going forward, all my projects and repositories shall turn into an public archive.
+
 ## Go Social! 
 An open, free, safe and privacy-friendly social media platform.
 <br>

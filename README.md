@@ -1,7 +1,12 @@
 # TheDoggyBrad Main Page
 
-# Important 
-I have decided to take a pause in developing any projects in Github and Go Social!. I do not know when to come back. The reason for this is that many people on the internet does not understand my complex mind. Going forward, all my projects and repositories shall turn into an public archive.
+## Signed-off
+This is TheDoggyBrad, a beginner in programming and developing programs and projects. 
+I have decided to stop development of new and current projects including Go Social!, as many people in the internet just hive negative criticism to my projects and even taking them down.
+All of my projects and repositories will be unmaintained and will retain as it is.
+Now is 9:50AM May 16, 2023 UTC +8.
+This is TheDoggyBrad, now signing off....
+
 
 ## Go Social! 
 An open, free, safe and privacy-friendly social media platform.

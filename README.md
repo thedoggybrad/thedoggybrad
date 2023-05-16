@@ -2,9 +2,15 @@
 
 ## Signed-off
 This is TheDoggyBrad, a beginner in programming and developing programs and projects. 
-I have decided to stop development of new and current projects including Go Social!, as many people in the internet just hive negative criticism to my projects and even taking them down.
+<br>
+I have decided to stop the development of new and current projects including Go Social! on the internet, as many people in the internet just have negative criticism to my projects and even taking them down on their websites.
+<br>
 All of my projects and repositories will be unmaintained and will retain as it is.
-Now is 9:50AM May 16, 2023 UTC +8.
+<br>
+Now it is 9:50AM May 16, 2023 UTC +8. 
+<br>
+I will miss my online programming and developing journey.
+<br>
 This is TheDoggyBrad, now signing off....
 
 

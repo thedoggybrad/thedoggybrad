@@ -53,7 +53,10 @@ https://github.com/thedoggybrad/GoSocial
 23.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/SuperImageSizeSaver
 <br>
 24.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/LoginSelectorGoBlue
-
+<br>
+25.) Custom Pagination (For Go Social!) https://github.com/thedoggybrad/customPagination
+<br>
+26.) LibreSpeed (Technical Demo) https://github.com/thedoggybrad/librespeed-technicaldemo
 
 ## Public Archive of the original files by thedoggybrad:
 1.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
@@ -72,18 +75,6 @@ https://github.com/thedoggybrad/GoSocial
 <br>
 8.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
 
-## Summary of my Projects:
-Products 2 to 13, 17, 19 and Archive 4 are all HTML based projects.
-<br>
-Meanwhile, product 1, archives 2 and 3 are filterlists for AdBlock plus.
-<br>
-Next, products 14 to 16, 18 and 20 are Visual Basic.NET projects.
-<br>
-Lastly, archive 1, 5, 6 and 8 are public archives of famous files.
-<br>
-The 7th archive is a demo showing ChatGPT's capabilities.
-<br>
-The 21st product is a program made for use on command line and as a GUI app.
 
 
 ## Definition of Terms

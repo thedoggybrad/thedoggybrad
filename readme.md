@@ -5,12 +5,13 @@ An open, free, safe and privacy-friendly social media platform.
 <br>
 https://github.com/thedoggybrad/GoSocial
 
-## Components made for Go Social!
+## OSSN Components made for Go Social!
 1.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/SuperImageSizeSaver
 <br>
 2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/LoginSelectorGoBlue
 <br>
-3.) Custom Pagination (For Go Social!) https://github.com/thedoggybrad/customPagination
+3.) Custom Pagination {OSSN COMPONENT} (STABLE-FINAL)
+https://github.com/thedoggybrad/customPagination
 
 ## The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
@@ -51,7 +52,8 @@ https://github.com/thedoggybrad/GoSocial
 <br>
 10.) DogGPT (STABLE) https://github.com/thedoggybrad/dogpt
 <br>
-11.) LibreSpeed (Technical Demo) https://github.com/thedoggybrad/librespeed-technicaldemo
+11.) LibreSpeed (TECHNICAL DEMO)
+https://github.com/thedoggybrad/librespeed-technicaldemo
 
 ## Filterlists
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
@@ -79,4 +81,3 @@ https://github.com/thedoggybrad/GoSocial
 5.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
 6.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
-<br>

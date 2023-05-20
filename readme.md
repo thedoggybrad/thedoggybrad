@@ -31,13 +31,13 @@ https://github.com/thedoggybrad/GoSocial
 5.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
 ## Web based Projects
-1.) qrscanner (STABLE) https://github.com/thedoggybrad/qrscanner
+1.) QR Scanner (STABLE) https://github.com/thedoggybrad/qrscanner
 <br>
-2.) getdatetime (STABLE) https://github.com/thedoggybrad/getdatetime
+2.) GetDateTime (STABLE) https://github.com/thedoggybrad/getdatetime
 <br>
-3.) text2speech (STABLE) https://github.com/thedoggybrad/text2speech
+3.) Text2Speech (STABLE) https://github.com/thedoggybrad/text2speech
 <br>
-4.) simplepasswordgenerator (STABLE) https://github.com/thedoggybrad/simplepasswordgenerator
+4.) SimplePasswordGenerator (STABLE) https://github.com/thedoggybrad/simplepasswordgenerator
 <br>
 5.) 2048 on the Web (STABLE) https://github.com/thedoggybrad/2048ontheweb
 <br>

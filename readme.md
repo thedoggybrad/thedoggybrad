@@ -1,11 +1,11 @@
 # TheDoggyBrad Main Page
 
-## Go Social! 
+## Go Social! (Flagship Project)
 An open, free, safe and privacy-friendly social media platform.
 <br>
 https://github.com/thedoggybrad/GoSocial
 
-## Products/Softwares of thedoggybrad:
+## Other Functional Projects
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
 2.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
@@ -74,16 +74,3 @@ https://github.com/thedoggybrad/GoSocial
 7.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 8.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
-
-
-
-## Definition of Terms
-•Stable - a stable product that can be used without crashing.
-<br>
-•Unmaintained - no releases are planned.
-<br>
-•Legacy Mode - releases will only fix problems/bugs.
-<br>
-•Maintenance Mode - no ground breaking changes are expected to be released.
-<br>
-•Archive - a file that is intended to be stayed as it is created by its original author.

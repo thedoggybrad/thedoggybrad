@@ -57,7 +57,7 @@ https://github.com/thedoggybrad/librespeed-technicaldemo
 
 ## Filterlists
 The tool I use to check for redundant entries: https://abpvn.com/ruleChecker/redundantRuleChecker.html
-<br>
+<br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
 2.) The Super Security Filterlist (STABLE) https://github.com/thedoggybrad/supersecurityfilterlist

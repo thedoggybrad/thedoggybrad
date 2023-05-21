@@ -63,6 +63,9 @@ https://github.com/thedoggybrad/librespeed-technicaldemo
 3.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
 4.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
+<br>
+5.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/blob/main/README.md
+
 
 ## ChatGPT generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt

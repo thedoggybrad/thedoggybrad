@@ -66,7 +66,7 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 4.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 <br>
-5.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/blob/main/README.md
+5.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/
 
 
 ## ChatGPT generated Projects

@@ -1,7 +1,7 @@
 # TheDoggyBrad Main Page
 
 ## Go Social!
-An open, free, safe and privacy-friendly social media platform.
+An open, free, safe and privacy-friendly social media platform. Powered by OSSN.
 <br>
 https://github.com/thedoggybrad/GoSocial
 
@@ -21,13 +21,13 @@ https://github.com/thedoggybrad/customPagination
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
 ## Visual Basic 2015 based Projects
-1.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
+1.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
 <br>
-2.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
+2.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
-3.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
+3.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
 <br>
-4.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
+4.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
 <br>
 5.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
@@ -62,14 +62,13 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 2.) The Super Security Filterlist (STABLE) https://github.com/thedoggybrad/supersecurityfilterlist
 <br>
-3.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
+3.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/
 <br>
-4.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
+4.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
-5.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/
+5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 
-
-## ChatGPT generated Projects
+## ChatGPT (GPT 3.5) generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
@@ -77,12 +76,13 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 ## Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
-2.) Windows 11 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder
+2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
 <br>
-3.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
+3.) Windows 11 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder
 <br>
-4.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
+4.) Windows 10 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-10-22H2-Web-Folder
 <br>
-5.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
+5.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
 <br>
-6.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
+6.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
+

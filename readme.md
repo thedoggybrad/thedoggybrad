@@ -1,4 +1,4 @@
-<img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="64"  height="64">
+<img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="80"  height="64">
                                                       
 # TheDoggyBrad
 

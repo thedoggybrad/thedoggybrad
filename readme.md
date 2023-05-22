@@ -1,4 +1,4 @@
-<img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="150"  height="128">
+<img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="160"  height="128">
                                                       
 # TheDoggyBrad
 This is TheDoggyBrad, a beginner in programming and developing programs and projects.

@@ -18,6 +18,8 @@ https://github.com/thedoggybrad/GoSocial
 https://github.com/thedoggybrad/customPagination
 <br>
 4.) Strict Email Login {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/StrictEmailLogin/
+<br>
+5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/speedtest-ossn
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

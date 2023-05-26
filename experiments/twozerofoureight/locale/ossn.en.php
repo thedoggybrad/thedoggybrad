@@ -1,0 +1,1 @@
+<?php/** * Open Source Social Network * */$en = array(	'com:ossn:twozerofoureight' => '2048 Game',);ossn_register_languages('en', $en); 

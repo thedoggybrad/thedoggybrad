@@ -20,6 +20,8 @@ https://github.com/thedoggybrad/customPagination
 4.) Strict Email Login {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/StrictEmailLogin/
 <br>
 5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/speedtest-ossn
+<br>
+6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/DoubleCaptcha
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

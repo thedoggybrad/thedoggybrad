@@ -67,6 +67,9 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 11.) LibreSpeed (TECHNICAL DEMO)
 https://github.com/thedoggybrad/librespeed-technicaldemo
+<br>
+12.) TheDoggyBrad Chat (STABLE)
+https://github.com/thedoggybrad/chat
 
 ## F. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator

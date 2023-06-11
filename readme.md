@@ -22,6 +22,8 @@ https://github.com/thedoggybrad/customPagination
 5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/speedtest-ossn
 <br>
 6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/DoubleCaptcha
+<br>
+7.) hCaptcha {OSSN-COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/hcaptcha-ossn
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

@@ -7,4 +7,5 @@ https://github.com/thedoggybrad/thedoggybrad/raw/main/mods/Captcha-ossn-infiltra
 View/Download Source Folder:
 https://github.com/thedoggybrad/thedoggybrad/tree/main/mods/Captcha-ossn-infiltracefont1/Captcha
 
+Note: Even me had to look very very careful to enter the proper Captcha code. I do not recommend using this mod if your OSSN site users are having some eye problems.
 

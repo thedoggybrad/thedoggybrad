@@ -12,18 +12,18 @@ https://github.com/thedoggybrad/GoSocial
 ## B. OSSN Components made for Go Social!
 1.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
 <br>
-2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT)) https://github.com/thedoggybrad/LoginSelectorGoBlue
+2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/LoginSelectorGoBlue
 <br>
 3.) Custom Pagination {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES)
 https://github.com/thedoggybrad/customPagination
 <br>
-4.) Strict Email Login {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT)) https://github.com/thedoggybrad/StrictEmailLogin/
+4.) Strict Email Login {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/StrictEmailLogin/
 <br>
-5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT)) https://github.com/thedoggybrad/speedtest-ossn
+5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest-ossn
 <br>
 6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-ABANDONED) https://github.com/thedoggybrad/DoubleCaptcha
 <br>
-7.) hCaptcha {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT)) https://github.com/thedoggybrad/hcaptcha-ossn
+7.) hCaptcha {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/hcaptcha-ossn
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
@@ -47,34 +47,34 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 
 
 ## E. Web based Projects
-1.) QRScanner (STABLE) https://github.com/thedoggybrad/qrscanner
+1.) QRScanner (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/qrscanner
 <br>
-2.) GetDateTime (STABLE) https://github.com/thedoggybrad/getdatetime
+2.) GetDateTime (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/getdatetime
 <br>
-3.) Text2Speech (STABLE) https://github.com/thedoggybrad/text2speech
+3.) Text2Speech (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/text2speech
 <br>
-4.) SimplePasswordGenerator (STABLE) https://github.com/thedoggybrad/simplepasswordgenerator
+4.) SimplePasswordGenerator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/simplepasswordgenerator
 <br>
-5.) 2048 on the Web (STABLE) https://github.com/thedoggybrad/2048ontheweb
+5.) 2048 on the Web (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/2048ontheweb
 <br>
-6.) PeacefulSearch (STABLE) https://github.com/thedoggybrad/peacefulsearch
+6.) PeacefulSearch (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/peacefulsearch
 <br>
-7.) Real SpeedTest (STABLE) https://github.com/thedoggybrad/speedtest
+7.) Real SpeedTest (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest
 <br>
-8.) Notes Manager (STABLE) https://github.com/thedoggybrad/notesmanager
+8.) Notes Manager (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/notesmanager
 <br>
-9.) LatencyTester (STABLE) https://github.com/thedoggybrad/latencytester
+9.) LatencyTester (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/latencytester
 <br>
-10.) DogGPT (STABLE) https://github.com/thedoggybrad/dogpt
+10.) DogGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dogpt
 <br>
-11.) LibreSpeed (TECHNICAL DEMO)
+11.) LibreSpeed (TECHNICAL_DEMO-ACTIVE_DEVELOPMENT)
 https://github.com/thedoggybrad/librespeed-technicaldemo
 <br>
-12.) TheDoggyBrad Chat (STABLE)
+12.) TheDoggyBrad Chat (STABLE-ACTIVE_DEVELOPMENT)
 https://github.com/thedoggybrad/chat
 
 ## F. Visual Basic 2015 based Projects
-1.) Edgescape Navigator (STABLE) https://github.com/thedoggybrad/edgescape_navigator
+1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator
 <br>
 2.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
@@ -86,9 +86,9 @@ https://github.com/thedoggybrad/chat
 
 
 ## G. Microsoft Windows related Projects
-1.) WindowsPEBasic (STABLE) https://github.com/thedoggybrad/WindowsPEBasic
+1.) WindowsPEBasic (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
-2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE) https://github.com/thedoggybrad/dnsflusher-win
+2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dnsflusher-win
 <br>
 3.) Windows 11 22H2 Web Folder (ARCHIVE) https://github.com/thedoggybrad/Windows-11-22H2-Web-Folder
 <br>

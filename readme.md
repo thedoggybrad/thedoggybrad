@@ -10,20 +10,20 @@ An open, free, safe and privacy-friendly social media platform. Powered by OSSN.
 https://github.com/thedoggybrad/GoSocial
 
 ## B. OSSN Components made for Go Social!
-1.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/SuperImageSizeSaver
+1.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/SuperImageSizeSaver
 <br>
-2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/LoginSelectorGoBlue
+2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/LoginSelectorGoBlue
 <br>
-3.) Custom Pagination {OSSN COMPONENT} (STABLE-FINAL)
+3.) Custom Pagination {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES)
 https://github.com/thedoggybrad/customPagination
 <br>
 4.) Strict Email Login {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/StrictEmailLogin/
 <br>
 5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/speedtest-ossn
 <br>
-6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/DoubleCaptcha
+6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-ABANDONED) https://github.com/thedoggybrad/DoubleCaptcha
 <br>
-7.) hCaptcha {OSSN-COMPONENT} (STABLE-FINAL) https://github.com/thedoggybrad/hcaptcha-ossn
+7.) hCaptcha {OSSN-COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/hcaptcha-ossn
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

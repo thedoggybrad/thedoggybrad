@@ -35,7 +35,7 @@ https://github.com/thedoggybrad/customPagination
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
 ## D. Filterlists
-The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/
+The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/ which its source code is available on https://github.com/thedoggybrad/abp-rule-checker/
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>

@@ -75,7 +75,8 @@ https://github.com/thedoggybrad/librespeed-technicaldemo
 12.) TheDoggyBrad Chat (STABLE-ACTIVE_DEVELOPMENT)
 https://github.com/thedoggybrad/chat<br>
 13.) ChatCalculator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/chatcalculator<br>
-14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper
+14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
+15.) HTML5TEST (Non-Github Project) https://html5test.x10.bz/
 
 ## F. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator

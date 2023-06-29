@@ -1,7 +1,7 @@
 <img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="180"  height="128">
                                                       
 # TheDoggyBrad
-This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based in the Philippines. An hobbyist that develops free software projects for the people.
+This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based in the Philippines. An hobbyist that develops free software projects and archives some great softwares for the people.
 
 ## A. Go Social!
 An open, free, safe and privacy-friendly social media platform. Powered by OSSN.

@@ -1,7 +1,7 @@
 <img src="https://github.com/thedoggybrad/thedoggybrad/assets/94173621/286d5330-e26d-48ec-872d-ae53a95df869" alt="LOGO" width="180"  height="128">
                                                       
 # TheDoggyBrad
-This is TheDoggyBrad, a beginner in programming and developing programs and projects. This account is operated by a Filipino individual, who wants his identity to be anonymous for now.
+This is TheDoggyBrad, a beginner in programming and developing programs and projects. This account is operated by a Filipino individual, who wants his identity to be anonymous.
 
 ## A. Go Social!
 An open, free, safe and privacy-friendly social media platform. Powered by OSSN.

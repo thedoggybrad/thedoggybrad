@@ -4,7 +4,7 @@
 This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based in the Philippines. A hobbyist that develops free software projects and archives some great softwares for the people.
 
 ### Intellectual Property Righrs
-The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" is allowed, only if you are not impersonating this account.
+The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" for your own purpose is allowed, only if you are not impersonating this account.
 
 ## A. Go Social!
 An open, free, safe and privacy-friendly social media platform. Powered by OSSN.

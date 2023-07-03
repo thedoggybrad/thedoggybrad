@@ -49,6 +49,8 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 4.) Easylistadware (ARCHIVE) https://github.com/thedoggybrad/easylistadware
 <br>
 5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
+<br>
+6.) EasyList Mirror (UNOFFICIAL) https://github.com/thedoggybrad/easylist-mirror
 
 
 ## E. Web based Projects

@@ -109,6 +109,8 @@ https://github.com/thedoggybrad/chat<br>
 5.) Classic Windows Task Manager (ARCHIVE) https://github.com/thedoggybrad/classic-windowstaskmanager
 <br>
 6.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
+<br>
+7.) Windows Live Essentials 2012 (ARCHIVE) https://github.com/thedoggybrad/winliveessentials-archive
 
 
 ## H. ChatGPT (GPT 3.5) generated Projects

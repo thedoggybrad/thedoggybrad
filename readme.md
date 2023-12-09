@@ -118,4 +118,7 @@ https://github.com/thedoggybrad/chat<br>
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
+## I. Microsoft Creator-generated projects
+1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
+
 

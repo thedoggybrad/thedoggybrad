@@ -6,29 +6,29 @@ This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based 
 ### Intellectual Property Righrs
 The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" for your own purpose is allowed, only if you are not impersonating this account.
 
-## A. Go Social!
-An open, free, safe and privacy-friendly social media platform. Powered by OSSN. {Repo Shutdown now powered by WallStant}
-<br>
+## A. FOSDL
+The Free and Open Source Development License or FOSDL for short, is an open source software license created and constructed by TheDoggyBrad Software Lab on December 23, 2023. FOSDL is intended to be used on a free and open source software.<br>
+https://github.com/thedoggybrad/FOSDL/
 
-https://github.com/thedoggybrad/GoSocial
-
-## B. OSSN Components made for Go Social!
-1.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
+## B. OSSN based softwares and components
+1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial
 <br>
-2.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/LoginSelectorGoBlue
+2.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
 <br>
-3.) Custom Pagination {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES)
+3.) Login Selector for Go Blue Theme {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/LoginSelectorGoBlue
+<br>
+4.) Custom Pagination {OSSN COMPONENT} (STABLE-NO_MORE_PLANNED_RELEASES)
 https://github.com/thedoggybrad/customPagination
 <br>
-4.) Strict Email Login {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/StrictEmailLogin/
+5.) Strict Email Login {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/StrictEmailLogin/
 <br>
-5.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest-ossn
+6.) OSSN Speedtest {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest-ossn
 <br>
-6.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-ABANDONED) https://github.com/thedoggybrad/DoubleCaptcha
+7.) DoubleCaptcha {OSSN-COMPONENT} (STABLE-ABANDONED) https://github.com/thedoggybrad/DoubleCaptcha
 <br>
-7.) hCaptcha {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/hcaptcha-ossn
+8.) hCaptcha {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/hcaptcha-ossn
 <br>
-8.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
+9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
 ## C. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET

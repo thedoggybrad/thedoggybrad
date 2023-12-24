@@ -6,8 +6,9 @@ This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based 
 ### Intellectual Property Righrs
 The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" for your own purpose is allowed, only if you are not impersonating this account.
 
-## A. UPCOMING OPEN SOURCE DEVELOPMENT LICENSE
-I have to takedown the FOSDL License as it misses a lot of terms like coverage of warranties. Will rerelease a new license under a new name once it is ready.
+## A. UPDER-FOSDL
+The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.
+https://github.com/thedoggybrad/UPDER-FOSDL
 
 ## B. OSSN based softwares and components
 1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial

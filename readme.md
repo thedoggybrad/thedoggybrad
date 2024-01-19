@@ -122,3 +122,8 @@ https://github.com/thedoggybrad/chat<br>
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
 
 
+## J. Greatest Commandment of Computer Ethics
+This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad Software Labs using the existing 10 Commandments of Computer Ethics.<br>
+https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
+
+

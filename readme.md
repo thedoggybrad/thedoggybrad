@@ -126,4 +126,7 @@ https://github.com/thedoggybrad/chat<br>
 This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad Software Labs using the existing 10 Commandments of Computer Ethics.<br>
 https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
+## K. Firefox Add-ons
+1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension
+
 

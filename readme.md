@@ -127,7 +127,7 @@ This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad
 https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
 ## K. Firefox Add-ons
-1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension
+1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
 2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2
 
 ## L. JS-DOS Projects

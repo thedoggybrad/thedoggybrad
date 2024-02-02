@@ -128,6 +128,7 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
 ## K. Firefox Add-ons
 1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension
+2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2
 
 ## L. JS-DOS Projects
 1.) DOOM on JS-DOS https://github.com/thedoggybrad/doom_on_js-dos

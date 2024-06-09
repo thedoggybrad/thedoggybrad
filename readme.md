@@ -132,8 +132,8 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2
 
 ## M. JS-DOS Projects
-1.) DOOM on JS-DOS https://github.com/thedoggybrad/doom_on_js-dos
+1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos
 
 ## N. Reverse Engineering
-1.) VirusTotal Website Security Check (With Firefox-Chromium extensions) https://github.com/thedoggybrad/vt_web_check
+1.) VirusTotal Website Security Check (With Chromium-Firefox family extensions) https://github.com/thedoggybrad/vt_web_check
 

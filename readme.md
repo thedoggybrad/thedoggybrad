@@ -7,10 +7,10 @@ This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based 
 The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" for your own purpose is allowed, only if you are not impersonating this account.
 
 ## A. EasyList Mirror (UNOFFICIAL)
-The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists. [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
+The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
 ## B. UPDER-FOSDL
-The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.
+The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.<br>
 https://github.com/thedoggybrad/UPDER-FOSDL
 
 ## C. OSSN based softwares and components

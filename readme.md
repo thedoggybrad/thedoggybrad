@@ -99,7 +99,7 @@ https://github.com/thedoggybrad/chat<br>
 
 
 ## H. Microsoft Windows related Projects
-1.) WindowsPEBasic (STABLE-DELAYED_DEVELOPMENT) https://github.com/thedoggybrad/WindowsPEBasic
+1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
 2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dnsflusher-win
 <br>
@@ -111,7 +111,8 @@ https://github.com/thedoggybrad/chat<br>
 <br>
 6.) Windows Hide or Show Updates (ARCHIVE) https://github.com/thedoggybrad/wushowhide.diagcab
 <br>
-7.) Windows Live Essentials 2012 (ARCHIVE) https://github.com/thedoggybrad/winliveessentials-archive
+7.) Windows Live Essentials 2012 (ARCHIVE) https://github.com/thedoggybrad/winliveessentials-archive<br>
+8.) Windows PE Basic Enhanced (STABLE) https://github.com/thedoggybrad/WindowsPEBasicEnhanced
 
 
 ## I. ChatGPT (GPT 3.5) generated Projects

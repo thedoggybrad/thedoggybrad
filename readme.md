@@ -84,7 +84,10 @@ https://github.com/thedoggybrad/chat<br>
 14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
 15.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
 17.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
-18.) Image Compressor (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/imagecompressor
+~~xx.) Image Compressor (Stable-Replaced/Retired) https://github.com/thedoggybrad/imagecompressor~~ [REPLACED BY DOWNSCAYL>]<br>
+18.) Downscayl (Stable-ACTIVE_DEVELOPMENT) https://github.com/downscayl/downscayl.github.io<br>
+19.) Mastoget (Stable-Active_Development) https://github.com/The-Mastoget-Organization/source<br>
+20.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium
 
 ## G. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator

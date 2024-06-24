@@ -45,7 +45,7 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
 <br>
-2.) The Super Security Filterlist (STABLE) https://github.com/thedoggybrad/supersecurityfilterlist
+2.) The Super Security Filterlist (ARCHIVE-UNMAINTAINED) https://github.com/thedoggybrad/supersecurityfilterlist
 <br>
 3.) Anti TLD Abuser Filterlist (STABLE) https://github.com/thedoggybrad/AntiTLDAbuserFilterlist/
 <br>

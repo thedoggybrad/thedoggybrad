@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+    <div id="output"></div>
+
+    <script>
+        function triggerWorkflow() {
+            const repositoryOwner = 'thedoggybrad'; // Replace with your repository owner
+            const repositoryName = 'easylist-mirror'; // Replace with your repository name
+            const workflowName = 'updater.yml'; // Replace with your workflow name
+            const token = 'TOKEN'; // Replace with your personal access token
+
+            const commitUrl = `https://api.github.com/repos/${repositoryOwner}/${repositoryName}/commits?per_page=1`;
+            fetch(commitUrl, {
+                headers: {
+                    'Authorization': `Bearer ${token}`,
+                    'Accept': 'application/vnd.github.v3+json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+                }
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch commits: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(commits => {
+                if (commits.length > 0) {
+                    const lastCommitTimestamp = new Date(commits[0].commit.committer.date).getTime();
+                    const currentTimestamp = new Date().getTime();
+                    const timeDiffMinutes = Math.round((currentTimestamp - lastCommitTimestamp) / (1000 * 60));
+
+                    if (timeDiffMinutes >= 10) { // Adjust the time threshold as needed
+                        const workflowUrl = `https://api.github.com/repos/${repositoryOwner}/${repositoryName}/actions/workflows/${workflowName}/dispatches`;
+                        return fetch(workflowUrl, {
+                            method: 'POST',
+                            headers: {
+                                'Authorization': `Bearer ${token}`,
+                                'Accept': 'application/vnd.github.v3+json',
+                                'Content-Type': 'application/json',
+                                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
+                            },
+                            body: JSON.stringify({
+                                ref: 'main', // Replace with the desired branch or commit reference
+                                inputs: {} // Ensure that inputs is an object, even if empty
+                            })
+                        });
+                    } else {
+                        throw new Error('The last commit is not 10 minutes ago or higher.');
+                    }
+                } else {
+                    throw new Error('No commits found in the repository.');
+                }
+            })
+            .then(response => {
+                if (response.ok) {
+                    document.getElementById('output').innerText = 'Workflow run successfully triggered.';
+                } else {
+                    throw new Error(`Failed to trigger workflow: ${response.status}`);
+                }
+            })
+            .catch(error => {
+                document.getElementById('output').innerText = `Error: ${error.message}`;
+            });
+        }
+
+        // Automatically trigger workflow when the page is loaded
+        triggerWorkflow();
+    </script>
+</body>
+</html>

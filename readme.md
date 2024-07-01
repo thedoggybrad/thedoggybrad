@@ -87,7 +87,8 @@ https://github.com/thedoggybrad/chat<br>
 ~~xx.) Image Compressor (Stable-Replaced/Retired) https://github.com/thedoggybrad/imagecompressor~~ [REPLACED BY DOWNSCAYL]<br>
 18.) Downscayl (Stable-ACTIVE_DEVELOPMENT) https://github.com/downscayl/downscayl.github.io<br>
 19.) Mastoget (Stable-Active_Development) https://github.com/The-Mastoget-Organization/source<br>
-20.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium
+20.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium<br>
+21.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/
 
 ## G. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator

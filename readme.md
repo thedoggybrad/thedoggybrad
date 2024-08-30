@@ -9,11 +9,15 @@ The brand "TheDoggyBrad" is owned under the intellectual property (not a tradema
 ## A. EasyList Mirror (UNOFFICIAL)
 The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
-## B. UPDER-FOSDL
+## B. TheSearXNG - Gateway and UI (UNOFFICIAL)
+TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
+[https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
+
+## C. UPDER-FOSDL
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.<br>
 https://github.com/thedoggybrad/UPDER-FOSDL
 
-## C. OSSN based softwares and components
+## D. OSSN based softwares and components
 1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial
 <br>
 2.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
@@ -33,14 +37,14 @@ https://github.com/thedoggybrad/customPagination
 <br>
 9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
-## D. The Adkilled family of Speedtests
+## E. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
 2.) ADKILLED-OPENSPEEDTEST.COM (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
-## E. Filterlists
+## F. Filterlists
 The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/ which its source code is available on https://github.com/thedoggybrad/abp-rule-checker/
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
@@ -54,7 +58,7 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 
 
-## F. Web based Projects
+## G. Web based Projects
 1.) QRScanner (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/qrscanner
 <br>
 2.) GetDateTime (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/getdatetime
@@ -91,7 +95,7 @@ https://github.com/thedoggybrad/chat<br>
 21.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
 22.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt
 
-## G. Visual Basic 2015 based Projects
+## H. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator
 <br>
 2.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
@@ -103,7 +107,7 @@ https://github.com/thedoggybrad/chat<br>
 5.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
 
-## H. Microsoft Windows related Projects
+## I. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
 2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dnsflusher-win
@@ -120,27 +124,27 @@ https://github.com/thedoggybrad/chat<br>
 8.) Windows PE Basic Enhanced (STABLE) https://github.com/thedoggybrad/WindowsPEBasicEnhanced
 
 
-## I. ChatGPT (GPT 3.5) generated Projects
+## J. ChatGPT (GPT 3.5) generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
-## J. Microsoft Creator-generated projects
+## K. Microsoft Creator-generated projects
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
 
 
-## K. Greatest Commandment of Computer Ethics
+## L. Greatest Commandment of Computer Ethics
 This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad Software Labs using the existing 10 Commandments of Computer Ethics.<br>
 https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
-## L. Firefox Add-ons
+## M. Firefox Add-ons
 1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
 2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2<br>
 3.) Google Search Fixer Refreshed (IMPROVED FORK) https://github.com/thedoggybrad/google-search-fixer-refreshed
 
-## M. JS-DOS Projects
+## N. JS-DOS Projects
 1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos
 
-## N. Reverse Engineering
+## O. Reverse Engineering
 1.) VirusTotal Website Security Check (With Chromium-Firefox family extensions) https://github.com/thedoggybrad/vt_web_check
 

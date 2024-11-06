@@ -13,11 +13,11 @@ The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack o
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
 
-## C. Paint3DArchive
+## C. Paint3DArchive (END OF ARCHIVING - ARCHIVED STATUS)
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. All archived by TheDoggyBrad Software Labs.<br>
 [https://github.com/thedoggybrad/Paint3DArchive](https://github.com/thedoggybrad/Paint3DArchive)
 
-## D. UPDER-FOSDL
+## D. UPDER-FOSDL 
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.<br>
 [https://github.com/thedoggybrad/UPDER-FOSDL](https://github.com/thedoggybrad/UPDER-FOSDL)
 

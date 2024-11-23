@@ -97,7 +97,8 @@ https://github.com/thedoggybrad/chat<br>
 19.) Mastoget (Stable-Active_Development) https://github.com/The-Mastoget-Organization/source<br>
 20.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium<br>
 21.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
-22.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt
+22.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
+23.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
 
 ## I. Visual Basic 2015 based Projects
 1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator

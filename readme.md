@@ -11,6 +11,7 @@ The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack o
 
 ## B. TheSearXNG - Gateway and UI (UNOFFICIAL)
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
+A perfect way to eliminate Google Search on your life.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
 
 ## C. Paint3DArchive (END OF ARCHIVING - ARCHIVED STATUS)

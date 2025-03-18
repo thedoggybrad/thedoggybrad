@@ -154,7 +154,13 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 ## P. Reverse Engineering
 1.) VirusTotal Website Security Check (With Chromium-Firefox family extensions) https://github.com/thedoggybrad/vt_web_check
 
-## Q. Tech Meme Gallery
+## Q. Hosted Mirrors
+1. OpenSpeedTest (Unofficial Mirror) https://github.com/thedoggybrad/OpenSpeedTest
+<br>
+2. LibreSpeed (Unofficial Ported Mirror)
+https://librespeed.vercel.app/
+
+## R. Tech Meme Gallery
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)

@@ -155,7 +155,7 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 1.) VirusTotal Website Security Check (With Chromium-Firefox family extensions) https://github.com/thedoggybrad/vt_web_check
 
 ## Q. Hosted Mirrors
-1. OpenSpeedTest (Unofficial Mirror) https://github.com/thedoggybrad/OpenSpeedTest
+1. OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/
 <br>
 2. LibreSpeed (Unofficial Ported Mirror)
 https://librespeed.vercel.app/

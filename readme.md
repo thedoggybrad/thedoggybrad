@@ -6,13 +6,13 @@ This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based 
 ### Intellectual Property Rights
 The brand "TheDoggyBrad" is owned under the intellectual property (not a trademark) ownership of TheDoggyBrad Software Lab. Impersonations (1:1 copy of the account) can cause legal actions, but using the same name "TheDoggyBrad" for your own purpose is allowed, only if you are not impersonating this account.
 
-## A. EasyList Mirror (UNOFFICIAL)
-The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
-
-## B. TheSearXNG - Gateway and UI (UNOFFICIAL)
+## A. TheSearXNG - Gateway and UI
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
 A perfect way to eliminate Google Search on your life.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
+
+## B. EasyList Mirror (UNOFFICIAL)
+The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
 ## C. Paint3DArchive (END OF ARCHIVING - ARCHIVED STATUS)
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. All archived by TheDoggyBrad Software Labs.<br>

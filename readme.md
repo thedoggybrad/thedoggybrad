@@ -3,6 +3,11 @@
 # TheDoggyBrad Software Lab
 This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based in the Philippines. A hobbyist that develops free software projects and archives some great softwares for the people.
 
+## A. Edgescape Navigator
+Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar.<br>
+[https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
+
+
 ## A. TheSearXNG - Gateway and UI
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
 A perfect way to eliminate Google Search on your life.<br>
@@ -99,15 +104,13 @@ https://github.com/thedoggybrad/chat<br>
 23.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
 
 ## I. Visual Basic 2015 based Projects
-1.) Edgescape Navigator (STABLE-NO_MORE_PLANNED_RELEASES) https://github.com/thedoggybrad/edgescape_navigator
+1.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
-2.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
+2.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
 <br>
-3.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
+3.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
 <br>
-4.) Calculator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/calculator
-<br>
-5.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
+4.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
 
 ## J. Microsoft Windows related Projects

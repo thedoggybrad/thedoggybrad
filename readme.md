@@ -95,10 +95,8 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 4.) Google Search + SearXNG AutoCompleter (Hybrid) https://github.com/thedoggybrad/googlesearxng
 
 ## L. Hosted Mirrors
-1. OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/
-<br>
-2. LibreSpeed (Unofficial Ported Mirror)
-https://librespeed.vercel.app/
+1. OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/<br>
+2. LibreSpeed (Unofficial Ported Mirror) https://librespeed.vercel.app/
 
 ## M. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic

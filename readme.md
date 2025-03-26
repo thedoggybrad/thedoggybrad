@@ -4,7 +4,7 @@
 This is TheDoggyBrad Software Lab (Formerly TheDoggyBrad), a small entity based in the Philippines. A hobbyist that develops free software projects and archives some great softwares for the people.
 
 ## A. Edgescape Navigator
-Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar.<br>
+Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.<br>
 [https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
 
 

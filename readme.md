@@ -43,7 +43,17 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 <br>
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
-## J. Web based Projects
+## J. Hosted Mirrors
+1.) OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/<br>
+2.) LibreSpeed (Unofficial Ported Mirror) https://librespeed.vercel.app/
+
+## K. Firefox Add-ons
+1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
+2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2<br>
+3.) Google Search Fixer Refreshed (IMPROVED FORK) https://github.com/thedoggybrad/google-search-fixer-refreshed<br>
+4.) Google Search + SearXNG AutoCompleter (Hybrid) https://github.com/thedoggybrad/googlesearxng
+
+## L. Web based Projects
 1.) QRScanner (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/qrscanner
 <br>
 2.) GetDateTime (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/getdatetime
@@ -78,16 +88,6 @@ https://github.com/thedoggybrad/chat<br>
 20.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
 21.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
 22.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
-
-## K. Firefox Add-ons
-1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
-2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2<br>
-3.) Google Search Fixer Refreshed (IMPROVED FORK) https://github.com/thedoggybrad/google-search-fixer-refreshed<br>
-4.) Google Search + SearXNG AutoCompleter (Hybrid) https://github.com/thedoggybrad/googlesearxng
-
-## L. Hosted Mirrors
-1.) OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/<br>
-2.) LibreSpeed (Unofficial Ported Mirror) https://librespeed.vercel.app/
 
 ## M. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic

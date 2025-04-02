@@ -16,7 +16,7 @@ A perfect way to eliminate Google Search on your life.<br>
 The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
 ## D. VirusTotal Website Security Check
-This is the VirusTotal Website Security Check, it is created by TheDoggyBrad Software Lab. It allows you to check the security of a website by typing in the full URL of the website. Then it automatically opens the VirusTotal security page that shows the result of various AV-provider's hypothesis on that website., similar to the behavior of a VirusTotal API. But... this site does not use an API key. Instead it is a reverse-engineering of the URL search function of the VirusTotal website. You may look at its code and use the extension version for your web browser at https://github.com/thedoggybrad/vt_web_check
+This is the VirusTotal Website Security Check, it is created by TheDoggyBrad Software Lab. It allows you to check the security of a website by typing in the full URL of the website. Then it automatically opens the VirusTotal security page that shows the result of various AV-provider's hypothesis on that website., similar to the behavior of a VirusTotal API. But... this site does not use an API key. Instead it is a reverse-engineering of the URL search function of the VirusTotal website. You may look at its code and use the extension version for your web browser.
 <br>
 [https://github.com/thedoggybrad/vt_web_check](https://github.com/thedoggybrad/vt_web_check)
 

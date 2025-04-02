@@ -162,6 +162,3 @@ https://github.com/thedoggybrad/customPagination
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)
-
-## U. My Social Media Accounts
-<a rel="me" href="https://mastodon.social/@thedoggybrad">Mastodon</a>

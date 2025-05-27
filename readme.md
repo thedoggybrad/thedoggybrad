@@ -9,54 +9,57 @@ Founding Day: November 12, 2021
 Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.<br>
 [https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
 
-## B. TheSearXNG - Gateway and UI
+## B. Mastofetch
+Mastofetch is your anonymized feed retriever for the Mastodon network.<br>This project feeds the public posts posted across the entire Mastodon network to your web browser.<br> [https://github.com/thedoggybrad/mastofetch](https://github.com/thedoggybrad/mastofetch)
+
+## C. TheSearXNG - Gateway and UI
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
 A perfect way to eliminate Google Search on your life.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
 
-## C. EasyList Mirror (UNOFFICIAL)
+## D. EasyList Mirror (UNOFFICIAL)
 The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
-## D. VirusTotal Website Security Check
+## E. VirusTotal Website Security Check
 This is the VirusTotal Website Security Check, it is created by TheDoggyBrad Software Lab. It allows you to check the security of a website by typing in the full URL of the website. Then it automatically opens the VirusTotal security page that shows the result of various AV-provider's hypothesis on that website., similar to the behavior of a VirusTotal API. But... this site does not use an API key. Instead it is a reverse-engineering of the URL search function of the VirusTotal website. You may look at its code and use the extension version for your web browser.
 <br>
 [https://github.com/thedoggybrad/vt_web_check](https://github.com/thedoggybrad/vt_web_check)
 
-## E. Downscayl 
+## F. Downscayl 
 The swiss army knife of effortless image compression<br>
 https://github.com/downscayl/downscayl.github.io<br>
 
-## F. Paint3DArchive
+## G. Paint3DArchive
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. All archived by TheDoggyBrad Software Labs.<br>
 [https://github.com/thedoggybrad/Paint3DArchive](https://github.com/thedoggybrad/Paint3DArchive)
 
-## G. UPDER-FOSDL 
+## H. UPDER-FOSDL 
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.<br>
 [https://github.com/thedoggybrad/UPDER-FOSDL](https://github.com/thedoggybrad/UPDER-FOSDL)
 
-## H. Greatest Commandment of Computer Ethics
+## I. Greatest Commandment of Computer Ethics
 This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad Software Labs using the existing 10 Commandments of Computer Ethics.<br>
 https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
-## I. The Adkilled family of Speedtests
+## J. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
 2.) ADKILLED-OPENSPEEDTEST.COM (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
-## J. Hosted Mirrors
+## K. Hosted Mirrors
 1.) OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/<br>
 2.) LibreSpeed (Unofficial Ported Mirror) https://librespeed.vercel.app/
 
-## K. Firefox Add-ons
+## L. Firefox Add-ons
 1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
 2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2<br>
 3.) Google Search Fixer Refreshed (IMPROVED FORK) https://github.com/thedoggybrad/google-search-fixer-refreshed<br>
 4.) Google Search + SearXNG AutoCompleter (Hybrid) https://github.com/thedoggybrad/googlesearxng<br>
 5.) Google Search (Web Results Only) https://github.com/thedoggybrad/googlewebresultsonly
 
-## L. Web based Projects
+## M. Web based Projects
 1.) QRScanner (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/qrscanner
 <br>
 2.) GetDateTime (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/getdatetime
@@ -86,13 +89,12 @@ https://github.com/thedoggybrad/chat<br>
 14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
 15.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
 17.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
-18.) Mastoget (Stable-Active_Development) https://github.com/The-Mastoget-Organization/source<br>
-19.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium<br>
-20.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
-21.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
-22.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
+18.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium<br>
+19..) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
+20.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
+21.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
 
-## M. Microsoft Windows related Projects
+## N. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
 2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dnsflusher-win
@@ -108,7 +110,7 @@ https://github.com/thedoggybrad/chat<br>
 7.) Windows Live Essentials 2012 (ARCHIVE) https://github.com/thedoggybrad/winliveessentials-archive<br>
 8.) Windows PE Basic Enhanced (STABLE) https://github.com/thedoggybrad/WindowsPEBasicEnhanced
 
-## N. Visual Basic 2015 based Projects
+## O. Visual Basic 2015 based Projects
 1.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
 2.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
@@ -117,7 +119,7 @@ https://github.com/thedoggybrad/chat<br>
 <br>
 4.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
-## O. Filterlists
+## P. Filterlists
 The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/ which its source code is available on https://github.com/thedoggybrad/abp-rule-checker/
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
@@ -130,18 +132,18 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 
-## P. ChatGPT (GPT 3.5) generated Projects
+## Q. ChatGPT (GPT 3.5) generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
-## Q. Microsoft Creator-generated projects
+## R. Microsoft Creator-generated projects
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
 
-## R. JS-DOS Projects
+## S. JS-DOS Projects
 1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos
 
-## S. OSSN based softwares and components
+## T. OSSN based softwares and components
 1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial
 <br>
 2.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
@@ -161,7 +163,7 @@ https://github.com/thedoggybrad/customPagination
 <br>
 9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
-## T. Tech Meme Gallery
+## U. Tech Meme Gallery
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)

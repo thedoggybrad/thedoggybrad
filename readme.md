@@ -141,8 +141,10 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
-## S. Microsoft Creator-generated projects
+## S. AI-Generated Images
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
+<br>
+2.) Images by ChatGPT https://github.com/thedoggybrad/CHATGPT-IMAGES
 
 ## T. JS-DOS Projects
 1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos

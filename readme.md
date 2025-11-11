@@ -40,7 +40,7 @@ The swiss army knife of effortless image compression<br>
 https://github.com/downscayl/downscayl.github.io<br>
 
 ## I. Real-ESRGAN GUI (Lite Models Only)
-A cross-platform GUI for image upscaler Real-ESRGAN with additional features that uses only lightweight models. Based on Real-ESRGAN GUI which is inspired by waifu2x-caffe.
+A cross-platform GUI for image upscaler Real-ESRGAN with additional features that uses only lightweight models. Based on Real-ESRGAN GUI which is inspired by waifu2x-caffe.<br>
 [https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only)
 
 ## J. Paint3DArchive

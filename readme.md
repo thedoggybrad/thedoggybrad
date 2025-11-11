@@ -39,37 +39,41 @@ The NewsOrgOnMastodon system of Mastodon accounts aims to deliver news and media
 The swiss army knife of effortless image compression<br>
 https://github.com/downscayl/downscayl.github.io<br>
 
-## I. Paint3DArchive
+## I. Real-ESRGAN GUI (Lite Models Only)
+A cross-platform GUI for image upscaler Real-ESRGAN with additional features that uses only lightweight models. Based on Real-ESRGAN GUI which is inspired by waifu2x-caffe.
+[https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only](https://github.com/thedoggybrad/real-esrgan-gui-lite-models-only)
+
+## J. Paint3DArchive
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. All archived by TheDoggyBrad Software Labs.<br>
 [https://github.com/thedoggybrad/Paint3DArchive](https://github.com/thedoggybrad/Paint3DArchive)
 
-## J. UPDER-FOSDL 
+## K. UPDER-FOSDL 
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.<br>
 [https://github.com/thedoggybrad/UPDER-FOSDL](https://github.com/thedoggybrad/UPDER-FOSDL)
 
-## K. Greatest Commandment of Computer Ethics
+## L. Greatest Commandment of Computer Ethics
 This is the "Greatest Commandment of Computer Ethics" formulated by TheDoggyBrad Software Labs using the existing 10 Commandments of Computer Ethics.<br>
 https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 
-## L. The Adkilled family of Speedtests
+## M. The Adkilled family of Speedtests
 1.) ADKILLED-SPEEDTEST.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-SPEEDTEST.NET
 <br>
 2.) ADKILLED-OPENSPEEDTEST.COM (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM
 <br>
 3.) ADKILLED-METER.NET (MAINTENANCE MODE-STABLE) https://github.com/thedoggybrad/ADKILLED-METER.NET
 
-## M. Hosted Mirrors
+## N. Hosted Mirrors
 1.) OpenSpeedTest (Unofficial Mirror) https://thedoggybrad.github.io/OpenSpeedTest/<br>
 2.) LibreSpeed (Unofficial Ported Mirror) https://librespeed.vercel.app/
 
-## N. Firefox Add-ons
+## O. Firefox Add-ons
 1.) searxng-firefox-extension (search.im-in.space) https://github.com/thedoggybrad/searxng-firefox-extension<br>
 2.) searxng-firefox-extension (search.demoniak.ch) https://github.com/thedoggybrad/searxng-firefox-extension2<br>
 3.) Google Search Fixer Refreshed (IMPROVED FORK) https://github.com/thedoggybrad/google-search-fixer-refreshed<br>
 4.) Google Search + SearXNG AutoCompleter (Hybrid) https://github.com/thedoggybrad/googlesearxng<br>
 5.) Google Search (Web Results Only) https://github.com/thedoggybrad/googlewebresultsonly
 
-## O. Web based Projects
+## P. Web based Projects
 1.) QRScanner (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/qrscanner
 <br>
 2.) GetDateTime (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/getdatetime
@@ -104,7 +108,7 @@ https://github.com/thedoggybrad/chat<br>
 20.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
 21.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
 
-## P. Microsoft Windows related Projects
+## Q. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic
 <br>
 2.) TheDoggyBrad's DNS Cache Flusher for Windows (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dnsflusher-win
@@ -120,7 +124,7 @@ https://github.com/thedoggybrad/chat<br>
 7.) Windows Live Essentials 2012 (ARCHIVE) https://github.com/thedoggybrad/winliveessentials-archive<br>
 8.) Windows PE Basic Enhanced (STABLE) https://github.com/thedoggybrad/WindowsPEBasicEnhanced
 
-## Q. Visual Basic 2015 based Projects
+## R. Visual Basic 2015 based Projects
 1.) Website Navigator (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/website_navigator
 <br>
 2.) Notepad Reborn (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/notepad_reborn
@@ -129,7 +133,7 @@ https://github.com/thedoggybrad/chat<br>
 <br>
 4.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
-## R. Filterlists
+## S. Filterlists
 The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/ which its source code is available on https://github.com/thedoggybrad/abp-rule-checker/
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
@@ -142,20 +146,20 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 
-## S. ChatGPT (GPT 3.5) generated Projects
+## T. ChatGPT (GPT 3.5) generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
-## T. AI-Generated Images
+## U. AI-Generated Images
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
 <br>
 2.) Images by ChatGPT https://github.com/thedoggybrad/CHATGPT-IMAGES
 
-## U. JS-DOS Projects
+## V. JS-DOS Projects
 1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos
 
-## V. OSSN based softwares and components
+## W. OSSN based softwares and components
 1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial
 <br>
 2.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
@@ -175,7 +179,7 @@ https://github.com/thedoggybrad/customPagination
 <br>
 9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
-## W. Tech Meme Gallery
+## X. Tech Meme Gallery
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)

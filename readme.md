@@ -103,10 +103,9 @@ https://github.com/thedoggybrad/chat<br>
 14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
 15.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
 17.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
-18.) Debatrium Forum (Stable-Active_Development) https://github.com/Debatrium/Debatrium<br>
-19..) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
-20.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
-21.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
+18.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
+19.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
+20.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
 
 ## Q. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic

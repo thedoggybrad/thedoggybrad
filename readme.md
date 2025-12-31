@@ -94,18 +94,17 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 <br>
 10.) DogGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dogpt
 <br>
-11.) LibreSpeed (TECHNICAL_DEMO-ACTIVE_DEVELOPMENT)
-https://github.com/thedoggybrad/librespeed-technicaldemo
+11.) LibreSpeed (TECHNICAL_DEMO-DISCONTINUED)https://github.com/thedoggybrad/librespeed-technicaldemo
 <br>
-12.) TheDoggyBrad Chat (STABLE-ACTIVE_DEVELOPMENT)
-https://github.com/thedoggybrad/chat<br>
+12.) TheDoggyBrad Chat (STABLE-DISCONTINUED) https://github.com/thedoggybrad/chat<br>
 13.) ChatCalculator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/chatcalculator<br>
 14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
 15.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
 17.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
 18.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
 19.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
-20.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator
+20.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator<br>
+21.) newyearmonitor (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/newyearmonitor
 
 ## Q. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic

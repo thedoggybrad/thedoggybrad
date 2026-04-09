@@ -11,9 +11,8 @@ TheDoggyBrad Software Labs is now accepting donations to help fund future projec
 Bitcoin Address:
 bc1qnf9alku0299wt5t46qcqu6leswww7rf2tx6kja
 
-## B. Edgescape Navigator
-Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.<br>
-[https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
+## B. EasyList Mirror (UNOFFICIAL)
+The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
 ## C. Mastofetch
 Mastofetch is your anonymized feed retriever for the Mastodon network.<br>This project feeds the public posts posted across the entire Mastodon network to your web browser.<br> [https://github.com/thedoggybrad/mastofetch](https://github.com/thedoggybrad/mastofetch)
@@ -23,8 +22,9 @@ TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help y
 A perfect way to eliminate Google Search on your life.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
 
-## E. EasyList Mirror (UNOFFICIAL)
-The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
+## E. Edgescape Navigator
+Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.<br>
+[https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
 
 ## F. VirusTotal Website Security Check
 This is the VirusTotal Website Security Check, it is created by TheDoggyBrad Software Lab. It allows you to check the security of a website by typing in the full URL of the website. Then it automatically opens the VirusTotal security page that shows the result of various AV-provider's hypothesis on that website., similar to the behavior of a VirusTotal API. But... this site does not use an API key. Instead it is a reverse-engineering of the URL search function of the VirusTotal website. You may look at its code and use the extension version for your web browser.

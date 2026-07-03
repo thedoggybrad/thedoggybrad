@@ -131,7 +131,10 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 <br>
 4.) Facebook-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/facebook_edgewebview2
 
-## S. Filterlists
+## S. Visual Basic 2026 based Projects
+1.) Messenger-EdgeWebView2 (UNMAINTAINED-STABLE) https://github.com/thedoggybrad/messenger-edgewebview2
+
+## T. Filterlists
 The tool I use to check for redundant entries: https://thedoggybrad.github.io/abp-rule-checker/ which its source code is available on https://github.com/thedoggybrad/abp-rule-checker/
 <br><br>
 1.) Frame Blocker Filter (STABLE) https://github.com/thedoggybrad/Frame-Blocker-Filter 
@@ -144,20 +147,20 @@ The tool I use to check for redundant entries: https://thedoggybrad.github.io/ab
 <br>
 5.) Malwaredomains_full (ARCHIVE) https://github.com/thedoggybrad/malwaredomains_full
 
-## T. ChatGPT (GPT 3.5) generated Projects
+## U. ChatGPT (GPT 3.5) generated Projects
 1.) Touch Me Not - A Novel by ChatGPT (ARCHIVE) https://github.com/thedoggybrad/touchmenotbychatgpt
 <br>
 2.) Rock, Paper, Scissors (ARCHIVE) https://github.com/thedoggybrad/rock-paper-scissors
 
-## U. AI-Generated Images
+## V. AI-Generated Images
 1.) Images by Cocreator https://github.com/thedoggybrad/COCREATOR-IMAGES
 <br>
 2.) Images by ChatGPT https://github.com/thedoggybrad/CHATGPT-IMAGES
 
-## V. JS-DOS Projects
+## W. JS-DOS Projects
 1.) DOOM on JS-DOS (DORMANT DEVELOPMENT) https://github.com/thedoggybrad/doom_on_js-dos
 
-## W. OSSN based softwares and components
+## X. OSSN based softwares and components
 1.) Go Social {OSSN Software} (STABLE-ARCHIVED) https://github.com/thedoggybrad/GoSocial
 <br>
 2.) SuperImageSizeSaver {OSSN COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/SuperImageSizeSaver
@@ -177,7 +180,7 @@ https://github.com/thedoggybrad/customPagination
 <br>
 9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
-## X. Tech Meme Gallery
+## Y. Tech Meme Gallery
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)

@@ -14,26 +14,26 @@ bc1qnf9alku0299wt5t46qcqu6leswww7rf2tx6kja
 ## B. EasyList Mirror (UNOFFICIAL)
 The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
-## C. Mastofetch
+## C. 2048 on the Web 
+An improved version of the classic 2048!
+[https://github.com/thedoggybrad/2048ontheweb](https://github.com/thedoggybrad/2048ontheweb)
+
+## D. Mastofetch
 Mastofetch is your anonymized feed retriever for the Mastodon network.<br>This project feeds the public posts posted across the entire Mastodon network to your web browser.<br> [https://github.com/thedoggybrad/mastofetch](https://github.com/thedoggybrad/mastofetch)
 
-## D. TheSearXNG - Gateway and UI
+## E. TheSearXNG - Gateway and UI
 TheSearXNG - Gateway and UI is my PHP based Gateway and UI for SearXNG to help you decentralize your search as per every search session it uses different SearXNG instances.<br>
 A perfect way to eliminate Google Search on your life.<br>
 [https://github.com/thedoggybrad/thesearxng](https://github.com/thedoggybrad/thesearxng)
 
-## E. Edgescape Navigator
+## F. Edgescape Navigator
 Edgescape Navigator is a web browser which is literally just a web browser. It has no bloatware, no mess and no unnecessary features. Just buttons for forward, backward, reload, homepage and about and also the addressbar. It is powered by EdgeWebView2 runtime.<br>
 [https://github.com/thedoggybrad/edgescape_navigator](https://github.com/thedoggybrad/edgescape_navigator)
 
-## F. VirusTotal Website Security Check
+## G. VirusTotal Website Security Check
 This is the VirusTotal Website Security Check, it is created by TheDoggyBrad Software Lab. It allows you to check the security of a website by typing in the full URL of the website. Then it automatically opens the VirusTotal security page that shows the result of various AV-provider's hypothesis on that website., similar to the behavior of a VirusTotal API. But... this site does not use an API key. Instead it is a reverse-engineering of the URL search function of the VirusTotal website. You may look at its code and use the extension version for your web browser.
 <br>
 [https://github.com/thedoggybrad/vt_web_check](https://github.com/thedoggybrad/vt_web_check)
-
-## G. NewsOrgOnMastodon
-The NewsOrgOnMastodon system of Mastodon accounts aims to deliver news and media organizations' presence to Mastodon (mastodon.social) by syncing their content to Mastodon from their official platforms such as RSS Feeds, thus serving as an unofficial Mastodon relay-bot of that news/media organization.<br>
-[https://github.com/thedoggybrad/NewsOrgOnMastodonSystem](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem)
 
 ## H. Downscayl 
 The swiss army knife of effortless image compression<br>
@@ -82,29 +82,28 @@ https://github.com/thedoggybrad/greatest_commandment_in_computer_ethics
 <br>
 4.) SimplePasswordGenerator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/simplepasswordgenerator
 <br>
-5.) 2048 on the Web (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/2048ontheweb
 <br>
-6.) PeacefulSearch (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/peacefulsearch
+5.) PeacefulSearch (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/peacefulsearch
 <br>
-7.) Real SpeedTest (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest
+6.) Real SpeedTest (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/speedtest
 <br>
-8.) Notes Manager (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/notesmanager
+7.) Notes Manager (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/notesmanager
 <br>
-9.) LatencyTester (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/latencytester
+8.) LatencyTester (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/latencytester
 <br>
-10.) DogGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dogpt
+9.) DogGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/dogpt
 <br>
-11.) LibreSpeed (TECHNICAL_DEMO-DISCONTINUED)https://github.com/thedoggybrad/librespeed-technicaldemo
+10.) LibreSpeed (TECHNICAL_DEMO-DISCONTINUED)https://github.com/thedoggybrad/librespeed-technicaldemo
 <br>
-12.) TheDoggyBrad Chat (STABLE-DISCONTINUED) https://github.com/thedoggybrad/chat<br>
-13.) ChatCalculator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/chatcalculator<br>
-14.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
-15.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
-17.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
-18.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
-19.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
-20.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator<br>
-21.) newyearmonitor (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/newyearmonitor
+11.) TheDoggyBrad Chat (STABLE-DISCONTINUED) https://github.com/thedoggybrad/chat<br>
+12.) ChatCalculator (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/chatcalculator<br>
+13.) Bootstrapper (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bootstrapper<br>
+14.) HTML5TEST (Non-Github Project and Proprietary Software) https://html5test.x10.bz/ <br>
+15.) URL Shortener (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/urlshortener <br>
+16.) xUI (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/xUI/<br>
+17.) BlueSodGPT (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/bluesodgpt<br>
+18.) Baybayin Translator (Not Expert Consulted) https://github.com/thedoggybrad/baybayin-translator<br>
+19.) newyearmonitor (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/newyearmonitor
 
 ## Q. Microsoft Windows related Projects
 1.) WindowsPEBasic (STABLE-End_of_Life) https://github.com/thedoggybrad/WindowsPEBasic
@@ -180,7 +179,11 @@ https://github.com/thedoggybrad/customPagination
 <br>
 9.) CloudFlare Turnstile {OSSN-COMPONENT} (STABLE-ACTIVE_DEVELOPMENT) https://github.com/thedoggybrad/ossn-turnstile
 
-## Y. Tech Meme Gallery
+## Y. NewsOrgOnMastodon
+The NewsOrgOnMastodon system of Mastodon accounts aims to deliver news and media organizations' presence to Mastodon (mastodon.social) by syncing their content to Mastodon from their official platforms such as RSS Feeds, thus serving as an unofficial Mastodon relay-bot of that news/media organization.<br>
+[https://github.com/thedoggybrad/NewsOrgOnMastodonSystem](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem)
+
+## Z. Tech Meme Gallery
 ### Microsoft Privacy Meme
 ![1](https://github.com/user-attachments/assets/0048018a-dc23-4297-b639-fd50325ee427)<br>
 ![2](https://github.com/user-attachments/assets/619a943e-03b7-4bbc-805d-a2123a2ada00)

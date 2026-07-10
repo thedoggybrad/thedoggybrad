@@ -15,7 +15,7 @@ bc1qnf9alku0299wt5t46qcqu6leswww7rf2tx6kja
 The EasyList Mirror (UNOFFICIAL) is TheDoggyBrad Software Lab's answer to lack of 3rd party mirrors for the EasyList-family of AdBlock filterlists.<br> [https://github.com/thedoggybrad/easylist-mirror](https://github.com/thedoggybrad/easylist-mirror)
 
 ## C. 2048 on the Web 
-An improved version of the classic 2048!
+An improved version of the classic 2048!<br>
 [https://github.com/thedoggybrad/2048ontheweb](https://github.com/thedoggybrad/2048ontheweb)
 
 ## D. Mastofetch

@@ -1,4 +1,4 @@
-<img src="https://github.com/thedoggybrad/thedoggybrad/blob/d245e9f8d5a1c94f4e93538f59217ff579d7bb0d/tdg.png" alt="LOGO" width="180"  height="128">
+<img src="https://raw.githubusercontent.com/thedoggybrad/thedoggybrad/refs/heads/main/tdg.jpg" alt="LOGO" width="200"  height="148">
 
 # TheDoggyBrad Software Labs
 This is TheDoggyBrad Software Labs, a small entity based in the Philippines. A hobbyist that develops free software projects and archives some great softwares for the people.
